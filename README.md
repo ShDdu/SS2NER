@@ -6,7 +6,7 @@ SS2NER is a deep learning framework designed to solve the **ambiguity problem** 
 
 ## 🚀 Key Features
 <p align="center">
-  <img src="./fig/model.png" width="600" alt="Model Architecture">
+  <img src="./model.png" width="600" alt="Model Architecture">
 </p>
 ---
 
